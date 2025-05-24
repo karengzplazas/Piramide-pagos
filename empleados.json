@@ -1,0 +1,30 @@
+{
+    "Karen": {
+        "horas_trabajadas": 54,
+        "tarifa_por_hora": 23000,
+        "tardanzas": 1,
+        "pago_horas_extras": 386400.0,
+        "bono": 50000,
+        "descuento": 0,
+        "pago_total": 1356400.0
+    },
+    "Ronal": {
+        "horas_trabajadas": 53,
+        "tarifa_por_hora": 48000,
+        "tardanzas": 0,
+        "pago_horas_extras": 748800.0,
+        "bono": 50000,
+        "descuento": 0,
+        "pago_total": 2718800.0
+    
+    },
+    "Juan": {
+        "horas": 50,
+        "tarifa": 20000,
+        "tardanzas": 2,
+        "extras": 10,
+        "bono": 0,
+        "descuento": 0,
+        "sueldo_bruto": 1040000.0
+    }
+}
