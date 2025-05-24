@@ -26,5 +26,7 @@ Permita gestionar múltiples empleados de forma continua y amigable.
 💻 Uso
 
 Asegúrate de tener Python instalado.
+
 Ejecuta el script desde la terminal:
+
 python Piramide.py
