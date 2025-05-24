@@ -16,8 +16,11 @@ Permita gestionar múltiples empleados de forma continua y amigable.
 ⚙️ Funcionalidades Clave
 
 ✅ Horas extras: Se pagan al 120% cuando se superan las 40 horas semanales.
+
 ✅ Bonificación: Si el sueldo bruto es mayor a $600.000, se otorgan $50.000 adicionales.
+
 ✅ Descuento por tardanzas: Se aplica un 5% si el trabajador acumula 3 o más tardanzas.
+
 ✅ Múltiples trabajadores: Se puede ingresar información de diferentes trabajadores hasta escribir salir.
 
 💻 Uso
