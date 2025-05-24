@@ -1,6 +1,9 @@
 # Piramide-pagos
+
 📊 Pirámide de la Sabiduría – Sistema de Cálculo de Pagos
+
 🧾 Resumen Ejecutivo
+
 Este proyecto implementa un sistema interactivo en Python para calcular el salario neto de los trabajadores involucrados en la construcción de la Pirámide de la Sabiduría. Considera variables como horas trabajadas, horas extras, bonificaciones por alto rendimiento y descuentos por tardanzas, optimizando así el control de pagos del personal.
 
 🎯 Objetivo del Proyecto
